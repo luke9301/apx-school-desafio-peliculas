@@ -1,0 +1,35 @@
+[
+    {
+    "title": "Pulp fiction",
+    "rating": 4,
+    "tags": ["acción", "violencia"]
+    
+  },
+  {
+    "title": "La lista de schindler",
+    "rating": 5,
+    "tags": ["bélica", "violencia", "historica"]
+    
+  },
+  {
+    "title": "Shrek",
+    "rating": 4,
+    "tags":["animada", "comedia", "fantasia" ]
+  },
+  {
+    "title": "El viaje de chihiro",
+    "rating": 5,
+    "tags":["animada", "fantasia", "misterio  "]
+  },
+  {
+  "title": "Iron man",
+  "rating": 3,
+  "tags":["heroes", "fantasia", "acción"]
+},
+{
+  "title": "El jardín de las palabras",
+  "rating": 4,
+  "tags":["animada", "fantasia", "romance", "cosas de la vida"]
+}
+]
+
